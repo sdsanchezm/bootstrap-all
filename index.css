@@ -1,0 +1,52 @@
+.textspecial {
+    color: #FFCA2C !important;
+}
+
+.btn-special {
+    background-color: #c93e3e;
+    color: white;
+}
+
+.btn-special:hover {
+    background-color: #97C93E;
+    color: white;
+}
+
+#main .carousel-inner img {
+    max-height: 40vh;
+    object-fit: cover;
+    filter: grayscale(90%);
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+    height: 100%;
+}
+
+#header img {
+    width: 80px;
+    background-color: transparent;
+}
+
+#footer {
+    background-color: grey;
+}
+
+#footer a {
+    color: beige;
+}
