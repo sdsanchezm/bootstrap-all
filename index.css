@@ -38,6 +38,22 @@
     height: 100%;
 }
 
+#place-time {
+    background-color: #FFCA2C;
+}
+
+#place-time img {
+    max-width: 100%;
+}
+
+#place-time2 {
+    background-color: #FFCA2C;
+}
+
+#place-time2 img {
+    max-width: 100%;
+}
+
 #header img {
     width: 80px;
     background-color: transparent;
